@@ -1,0 +1,4 @@
+# Small workload for a quick run.
+first 50
+second 25
+third 75

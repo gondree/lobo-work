@@ -1,0 +1,4 @@
+# The first line is valid; the second line is intentionally malformed.
+valid-job 5
+this-line-does-not-have-a-duration
+

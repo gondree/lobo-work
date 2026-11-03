@@ -1,0 +1,9 @@
+# Different durations make parallel execution visible.
+compile 250
+link 100
+unit-tests 400
+package 75
+documentation 150
+integration-tests 300
+clean 50
+deploy-dry-run 200

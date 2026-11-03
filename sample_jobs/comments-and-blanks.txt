@@ -1,0 +1,7 @@
+# Blank lines and comments are ignored.
+
+alpha 10
+
+# The parser accepts arbitrary whitespace between fields.
+beta     20
+gamma 30

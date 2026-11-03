@@ -1,0 +1,10 @@
+# Percentages assigned to each functional-testing class. These percentages
+# apply to the functional-test portion of the project grade.
+#
+7.69%    tests/*-cli.sh
+7.69%    tests/*-parsing.sh
+23.08%   tests/*-work.sh
+23.08%   tests/*-concurrency.sh
+15.38%   tests/*-statistics.sh
+15.38%   tests/*-shutdown.sh
+7.69%    tests/*-stress.sh

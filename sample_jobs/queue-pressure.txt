@@ -1,0 +1,15 @@
+# More jobs than a small queue can hold at once.
+# Try: cat sample_jobs/queue-pressure.txt | ./lobo_work.x --workers 2 --queue 2
+job-01 40
+job-02 20
+job-03 60
+job-04 10
+job-05 50
+job-06 30
+job-07 70
+job-08 15
+job-09 45
+job-10 25
+job-11 35
+job-12 55
+
